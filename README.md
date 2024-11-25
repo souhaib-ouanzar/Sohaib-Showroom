@@ -1,8 +1,32 @@
-# React + Vite
+# 🚗 Sohaib Showroom
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenue sur le site **Sohaib Showroom**. Ce projet utilise **React.js**  pour offrir une expérience utilisateur fluide et dynamique.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 🧰 Technologies utilisées
+
+- **React.js :** Bibliothèque JavaScript pour construire l'interface utilisateur.
+- **Tailwind CSS :** Framework CSS utilitaire pour un design moderne et réactif.
+- **Faker.js :** Génération aléatoire de données fictives pour les annonces.
+- **Vite :** Outil de développement rapide pour React.
+
+🚀 Lancer le projet
+Prérequis
+Node.js
+npm ou yarn
+
+1-Installation
+Clonez le dépôt :
+
+git clone https://github.com/souhaib-ouanzar/Sohaib-Showroom.git
+
+2-Accédez au dossier :
+
+cd sohaib-showroom
+
+3-Installez les dépendances :
+npm install
+
+4-Lancez le projet :
+npm run dev
